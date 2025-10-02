@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free you stinky",
     "records": [
+        {            
+            "user": "RUSTY WIT MP5",
+            "link": "",
+            "percent": 100,
+            "hz": 170
+        }
     ]
 }
